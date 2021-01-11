@@ -2,7 +2,7 @@
 用来播放由Video2Chars生成的字符序列的程序
 
 ## 程序用途:
-用以将 [Video2Chars]() 所生成的字符序列作为视频来播放, 并且可以指定背景音乐以及播放速率
+用以将 [Video2Chars](https://github.com/SlimeNull/Video2Chars) 所生成的字符序列作为视频来播放, 并且可以指定背景音乐以及播放速率
 
 ## 使用方式:
 ```sh
