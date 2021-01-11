@@ -1,0 +1,12 @@
+C:\Users\沐chen\source\repos\BadApple\BadApple\bin\Release\BadApple.exe
+C:\Users\沐chen\source\repos\BadApple\BadApple\bin\Release\BadApple.pdb
+C:\Users\沐chen\source\repos\BadApple\BadApple\obj\Release\BadApple.csprojAssemblyReference.cache
+C:\Users\沐chen\source\repos\BadApple\BadApple\obj\Release\BadApple.csproj.CoreCompileInputs.cache
+C:\Users\沐chen\source\repos\BadApple\BadApple\obj\Release\BadApple.exe
+C:\Users\沐chen\source\repos\BadApple\BadApple\obj\Release\BadApple.pdb
+C:\Users\LM\source\repos\BadApple\BadApple\bin\Release\NullPlayer.exe
+C:\Users\LM\source\repos\BadApple\BadApple\bin\Release\NullPlayer.pdb
+C:\Users\LM\source\repos\BadApple\BadApple\obj\Release\BadApple.csprojAssemblyReference.cache
+C:\Users\LM\source\repos\BadApple\BadApple\obj\Release\BadApple.csproj.CoreCompileInputs.cache
+C:\Users\LM\source\repos\BadApple\BadApple\obj\Release\NullPlayer.exe
+C:\Users\LM\source\repos\BadApple\BadApple\obj\Release\NullPlayer.pdb
